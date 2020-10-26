@@ -1,0 +1,14 @@
+{
+  "name": "MQTT Broker SMKN 4 Bandung",
+  "author": "Ferry Stepanus Suwita (@superipey)",
+  "version": "1.0.0",
+  "description": "MQTT Broker untuk Dashboard",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.15.2",
+    "mqtt": "^4.2.1",
+    "mysql": "^2.18.1",
+    "socket.io": "^2.3.0"
+  }
+}
